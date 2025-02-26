@@ -1,4 +1,4 @@
-const images = document.querySelectorAll('lightbox')
+const images = document.querySelectorAll('.lightbox')
 
 const handleOpenImage = (imgEle) => {
   const modal = document.createElement('div')
