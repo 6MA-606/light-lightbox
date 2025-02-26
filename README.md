@@ -2,6 +2,8 @@
 
 Light-lightbox is a simple lightbox for images.
 
+![image](https://github.com/user-attachments/assets/b1eb48f4-5b52-450b-8434-99735a47ba55)
+
 ## Usage
 
 ```html
