@@ -15,7 +15,7 @@ Light-lightbox is a simple lightbox for images.
   <img class="lightbox" src="image.jpg" alt="Image" />
 
   <!-- Include light-lightbox.js -->
-  <script src="https://cdn.jsdelivr.net/gh/6MA-606/light-lightbox@main/light-lightbox.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/6MA-606/light-lightbox@main/light-lightbox.min.js"></script>
 </body>
 </html>
 ```
